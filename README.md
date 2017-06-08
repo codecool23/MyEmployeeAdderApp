@@ -1,6 +1,6 @@
 # MyEmployeeAdderApp
 
-This is going to be my firs big desktop application using c#
+This is going to be my first big desktop application using c#
 The idea is to create a desktop app - add new employees - names- phone numbers (formatted) and save it in to a txt file. 
 Add new employee button , sort by ABC button. 
 Using dynamic array to increment the number of employees real time , so you dont need to declare a specific number. 
